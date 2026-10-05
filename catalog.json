@@ -1,0 +1,1096 @@
+{
+ "brands": [
+  {
+   "id": "ricelake",
+   "name": "Rice Lake",
+   "base": true,
+   "pack": {
+    "id": "ricelake-brain",
+    "name": "Rice Lake \u2014 full shelf brain",
+    "kind": "brain",
+    "version": 5,
+    "minApp": 12,
+    "books": 42,
+    "chunks": 6236,
+    "sha256": "0e24546e9b0feca98d457bf99c19ac8316528aa13b5655123ecdaf62e4b70a16",
+    "sizeMB": 45.0,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/ricelake-brain-v5.zip",
+    "note": "Teaches Ask every book on the Rice Lake shelf, plus the load cell books, DC-200/300, and the Mechanical Scale Parts Catalog Ed.11 (cross-brand parts).",
+    "shelf": [
+     {
+      "name": "Mechanical Parts",
+      "doc": "Ed11",
+      "rev": "12/2025",
+      "title": "Mechanical Scale Parts Catalog Edition 11 (cross-brand parts)",
+      "pdf": "rl_mechanical_parts_ed11.pdf",
+      "pages": 362
+     },
+     {
+      "name": "Load Cell Guide",
+      "doc": "2026Q1",
+      "rev": "",
+      "title": "Load Cell Guide 2026 (full catalog)",
+      "pdf": "rl_loadcell_guide_2026.pdf",
+      "pages": 388
+     },
+     {
+      "name": "Load Cell Handbook",
+      "doc": "",
+      "rev": "",
+      "title": "Load Cell and Weigh Module Handbook",
+      "pdf": "rl_lc_wm_handbook.pdf",
+      "pages": 114
+     },
+     {
+      "name": "Load Cell Wiring",
+      "doc": "",
+      "rev": "",
+      "title": "Load Cell Wiring Guide",
+      "pdf": "rl_lc_wiring.pdf",
+      "pages": 1
+     }
+    ]
+   },
+   "shelf": [
+    {
+     "name": "Mechanical Parts",
+     "doc": "Ed11",
+     "rev": "12/2025",
+     "title": "Mechanical Scale Parts Catalog Edition 11 (cross-brand parts)",
+     "pdf": "rl_mechanical_parts_ed11.pdf",
+     "pages": 362
+    },
+    {
+     "name": "Load Cell Guide",
+     "doc": "2026Q1",
+     "rev": "",
+     "title": "Load Cell Guide 2026 (full catalog)",
+     "pdf": "rl_loadcell_guide_2026.pdf",
+     "pages": 388
+    },
+    {
+     "name": "Load Cell Handbook",
+     "doc": "",
+     "rev": "",
+     "title": "Load Cell and Weigh Module Handbook",
+     "pdf": "rl_lc_wm_handbook.pdf",
+     "pages": 114
+    },
+    {
+     "name": "Load Cell Wiring",
+     "doc": "",
+     "rev": "",
+     "title": "Load Cell Wiring Guide",
+     "pdf": "rl_lc_wiring.pdf",
+     "pages": 1
+    }
+   ],
+   "books": 42,
+   "chunks": 6236,
+   "version": 5,
+   "minApp": 12,
+   "note": "Teaches Ask every book on the Rice Lake shelf, plus the load cell books, DC-200/300, and the Mechanical Scale Parts Catalog Ed.11 (cross-brand parts).",
+   "instruments": [
+    {
+     "name": "Mechanical Parts",
+     "doc": "Ed11",
+     "rev": "12/2025",
+     "title": "Mechanical Scale Parts Catalog Edition 11 (cross-brand parts)"
+    },
+    {
+     "name": "Load Cell Guide",
+     "doc": "2026Q1",
+     "rev": "",
+     "title": "Load Cell Guide 2026 (full catalog)"
+    },
+    {
+     "name": "Load Cell Handbook",
+     "doc": "",
+     "rev": "",
+     "title": "Load Cell and Weigh Module Handbook"
+    },
+    {
+     "name": "Load Cell Wiring",
+     "doc": "",
+     "rev": "",
+     "title": "Load Cell Wiring Guide"
+    },
+    {
+     "name": "1280",
+     "doc": "167659",
+     "rev": "Rev N",
+     "title": "1280 Enterprise Series Color Touchscreen Programmable Indicator Technical Manual"
+    },
+    {
+     "name": "920i",
+     "doc": "67887",
+     "rev": "Rev N",
+     "title": "920i Programmable Indicator/Controller Technical Manual"
+    },
+    {
+     "name": "720i",
+     "doc": "103121",
+     "rev": "Rev J",
+     "title": "720i Programmable HMI Indicator/Controller Technical Manual"
+    },
+    {
+     "name": "680",
+     "doc": "192627",
+     "rev": "Rev S, 09/25",
+     "title": "680 Synergy Plus Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "482",
+     "doc": "165124",
+     "rev": "Rev F",
+     "title": "482 Legend Series Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "820i",
+     "doc": "93018",
+     "rev": "Rev D",
+     "title": "820i Programmable HMI Indicator/Controller Technical Manual"
+    },
+    {
+     "name": "682",
+     "doc": "204533",
+     "rev": "Rev N",
+     "title": "682 Synergy Plus Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "680HE",
+     "doc": "197709",
+     "rev": "Rev H",
+     "title": "680HE Synergy Hostile Environment Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "880",
+     "doc": "158387",
+     "rev": "Rev L",
+     "title": "880 Performance Series Controller/Indicator Technical Manual"
+    },
+    {
+     "name": "882IS",
+     "doc": "183532",
+     "rev": "Rev R",
+     "title": "882IS and 882IS Plus Intrinsically Safe Indicator/Controller Technical Manual"
+    },
+    {
+     "name": "882D",
+     "doc": "184260",
+     "rev": "Rev L",
+     "title": "882D Belt Scale Integrator Technical Manual"
+    },
+    {
+     "name": "480",
+     "doc": "119201",
+     "rev": "Rev P",
+     "title": "480 Legend Series Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "380",
+     "doc": "201481",
+     "rev": "Rev K",
+     "title": "380 Synergy Series Battery Powered Digital Weight Indicators Technical Manual"
+    },
+    {
+     "name": "482-AG",
+     "doc": "167281",
+     "rev": "Rev E",
+     "title": "482-AG Livestock Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "520",
+     "doc": "68973",
+     "rev": "Rev A",
+     "title": "520 Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "420 Plus",
+     "doc": "85127",
+     "rev": "Rev C",
+     "title": "420 Plus HMI Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "CW-90",
+     "doc": "105942",
+     "rev": "Rev J",
+     "title": "CW-90/90X Checkweigher Technical Manual"
+    },
+    {
+     "name": "120 Plus",
+     "doc": "105914",
+     "rev": "Rev C",
+     "title": "120 Plus Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "120",
+     "doc": "76699",
+     "rev": "Rev D",
+     "title": "120 Extended Digital Weight Indicator Technical Manual"
+    },
+    {
+     "name": "320IS Plus",
+     "doc": "85353",
+     "rev": "Rev F",
+     "title": "320IS Plus Intrinsically Safe Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "320IS",
+     "doc": "74612",
+     "rev": "Rev D",
+     "title": "320IS Intrinsically Safe Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 210",
+     "doc": "64640",
+     "rev": "Rev D",
+     "title": "IQ plus 210 Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 355",
+     "doc": "66503",
+     "rev": "Rev A",
+     "title": "IQ plus 355 Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 390-DC",
+     "doc": "48820",
+     "rev": "Rev A",
+     "title": "IQ plus 390-DC Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 510",
+     "doc": "64880",
+     "rev": "V2.1",
+     "title": "IQ plus 510 Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 590-DC",
+     "doc": "51778",
+     "rev": "V1.0",
+     "title": "IQ plus 590-DC Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 710",
+     "doc": "64505",
+     "rev": "V2.0",
+     "title": "IQ plus 710 Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 310A",
+     "doc": "22979",
+     "rev": "V5.0",
+     "title": "IQ plus 310A Digital Weight Indicator Installation Manual"
+    },
+    {
+     "name": "IQ 800/810",
+     "doc": "42100",
+     "rev": "V3.1",
+     "title": "IQ plus 800/810 Digital Weight Indicators Installation Manual"
+    },
+    {
+     "name": "iQUBE2",
+     "doc": "106113",
+     "rev": "Rev M",
+     "title": "iQUBE2 Digital Diagnostic Junction Box Installation Manual"
+    },
+    {
+     "name": "iQUBE3",
+     "doc": "228701",
+     "rev": "Rev D",
+     "title": "iQUBE3 Digital Diagnostic Junction Box Technical Manual"
+    },
+    {
+     "name": "SCT-1100",
+     "doc": "185658",
+     "rev": "Rev E",
+     "title": "SCT-1100 Advanced Series Weight Transmitter Technical Manual"
+    },
+    {
+     "name": "SCT-2200",
+     "doc": "183522",
+     "rev": "Rev G",
+     "title": "SCT-2200 Advanced Series Weight Transmitter Technical Manual"
+    },
+    {
+     "name": "SCT-40",
+     "doc": "171954",
+     "rev": "Rev F",
+     "title": "SCT-40 Series Signal Conditioning Transmitter/Indicator Technical Manual"
+    },
+    {
+     "name": "SCT-20",
+     "doc": "131128",
+     "rev": "Rev M",
+     "title": "SCT-20 Series Signal Conditioning Transmitter/Indicator Technical Manual"
+    },
+    {
+     "name": "SCT-3300",
+     "doc": "190937",
+     "rev": "Rev B",
+     "title": "SCT-3300 Signal Conditioning Transmitter Installation Manual"
+    },
+    {
+     "name": "SCT-4XD",
+     "doc": "227386",
+     "rev": "Rev E",
+     "title": "SCT-4XD Belt Scale Integrator Technical Manual"
+    },
+    {
+     "name": "DC-200/300",
+     "doc": "77159",
+     "rev": "Version 1.37",
+     "title": "DC-200/300 Counting Scale Service Manual"
+    }
+   ]
+  },
+  {
+   "id": "mettler",
+   "name": "Mettler Toledo",
+   "pack": {
+    "id": "mettler",
+    "name": "Mettler Toledo - full shelf",
+    "kind": "brand",
+    "version": 3,
+    "minApp": 26,
+    "books": 10,
+    "chunks": 2540,
+    "sha256": "96b48f4f010f9355aec85cd178f9ae54c5795fa53c16c20c5f105aa94a72b7cb",
+    "sizeMB": 72.5,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/mettler-brand-v3.zip",
+    "note": "10 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, and hazardous-area load cell wiring.",
+    "shelf": [
+     {
+      "name": "IND780",
+      "doc": "64057242",
+      "rev": "R15",
+      "title": "IND780 Weighing Terminal Technical Manual",
+      "pdf": "mettlerIND780_tech.pdf",
+      "pages": 538
+     },
+     {
+      "name": "IND570",
+      "doc": "30205308",
+      "rev": "U",
+      "title": "IND570 Weighing Terminal User's Guide",
+      "pdf": "mettlerIND570_user.pdf",
+      "pages": 459
+     },
+     {
+      "name": "IND570 Install",
+      "doc": "30205319",
+      "rev": "P",
+      "title": "IND570 Weighing Terminal Installation Manual",
+      "pdf": "mettlerIND570_install.pdf",
+      "pages": 111
+     },
+     {
+      "name": "IND570 PLC",
+      "doc": "30205335",
+      "rev": "M",
+      "title": "IND570 Weighing Terminal PLC Interface Manual",
+      "pdf": "mettlerIND570_plc.pdf",
+      "pages": 198
+     },
+     {
+      "name": "IND570xx",
+      "doc": "30205321",
+      "rev": "J",
+      "title": "IND570xx Division 2 / Zone 2/22 Installation Manual",
+      "pdf": "mettlerIND570xx_install.pdf",
+      "pages": 34
+     },
+     {
+      "name": "IND560",
+      "doc": "71209394",
+      "rev": "(03/07) R01",
+      "title": "IND560 Terminal Technical Manual",
+      "pdf": "mettlerIND560_tech.pdf",
+      "pages": 286
+     },
+     {
+      "name": "IND246",
+      "doc": "64084463",
+      "rev": "04",
+      "title": "IND246 and IND246 POWERCELL Weighing Terminal Installation Manual",
+      "pdf": "mettlerIND246_install.pdf",
+      "pages": 59
+     },
+     {
+      "name": "Weigh Modules",
+      "doc": "44098237",
+      "rev": "B",
+      "title": "Weigh Module Systems Handbook \u2014 Engineering Guidelines for Customized Scales",
+      "pdf": "mettlerWM_handbook.pdf",
+      "pages": 144
+     },
+     {
+      "name": "LCWM Haz",
+      "doc": "30104376",
+      "rev": "C",
+      "title": "Weigh Modules and Load Cell Accessories in Potentially Explosive Atmospheres",
+      "pdf": "mettlerLCWM_haz.pdf",
+      "pages": 8
+     },
+     {
+      "name": "Panther",
+      "doc": "E14957000A",
+      "rev": "(10/2008) R02",
+      "title": "PANTHER Terminal Technical Manual",
+      "pdf": "mettler-panther_tech.pdf",
+      "pages": 150
+     }
+    ],
+    "expires_at": "2026-10-05T23:20:31+00:00"
+   },
+   "shelf": [
+    {
+     "name": "IND780",
+     "doc": "64057242",
+     "rev": "R15",
+     "title": "IND780 Weighing Terminal Technical Manual",
+     "pdf": "mettlerIND780_tech.pdf",
+     "pages": 538
+    },
+    {
+     "name": "IND570",
+     "doc": "30205308",
+     "rev": "U",
+     "title": "IND570 Weighing Terminal User's Guide",
+     "pdf": "mettlerIND570_user.pdf",
+     "pages": 459
+    },
+    {
+     "name": "IND570 Install",
+     "doc": "30205319",
+     "rev": "P",
+     "title": "IND570 Weighing Terminal Installation Manual",
+     "pdf": "mettlerIND570_install.pdf",
+     "pages": 111
+    },
+    {
+     "name": "IND570 PLC",
+     "doc": "30205335",
+     "rev": "M",
+     "title": "IND570 Weighing Terminal PLC Interface Manual",
+     "pdf": "mettlerIND570_plc.pdf",
+     "pages": 198
+    },
+    {
+     "name": "IND570xx",
+     "doc": "30205321",
+     "rev": "J",
+     "title": "IND570xx Division 2 / Zone 2/22 Installation Manual",
+     "pdf": "mettlerIND570xx_install.pdf",
+     "pages": 34
+    },
+    {
+     "name": "IND560",
+     "doc": "71209394",
+     "rev": "(03/07) R01",
+     "title": "IND560 Terminal Technical Manual",
+     "pdf": "mettlerIND560_tech.pdf",
+     "pages": 286
+    },
+    {
+     "name": "IND246",
+     "doc": "64084463",
+     "rev": "04",
+     "title": "IND246 and IND246 POWERCELL Weighing Terminal Installation Manual",
+     "pdf": "mettlerIND246_install.pdf",
+     "pages": 59
+    },
+    {
+     "name": "Weigh Modules",
+     "doc": "44098237",
+     "rev": "B",
+     "title": "Weigh Module Systems Handbook \u2014 Engineering Guidelines for Customized Scales",
+     "pdf": "mettlerWM_handbook.pdf",
+     "pages": 144
+    },
+    {
+     "name": "LCWM Haz",
+     "doc": "30104376",
+     "rev": "C",
+     "title": "Weigh Modules and Load Cell Accessories in Potentially Explosive Atmospheres",
+     "pdf": "mettlerLCWM_haz.pdf",
+     "pages": 8
+    },
+    {
+     "name": "Panther",
+     "doc": "E14957000A",
+     "rev": "(10/2008) R02",
+     "title": "PANTHER Terminal Technical Manual",
+     "pdf": "mettler-panther_tech.pdf",
+     "pages": 150
+    }
+   ],
+   "version": 3,
+   "minApp": 26,
+   "books": 10,
+   "chunks": 2540,
+   "sha256": "96b48f4f010f9355aec85cd178f9ae54c5795fa53c16c20c5f105aa94a72b7cb",
+   "sizeMB": 72.5,
+   "url": "https://muse.ai/files/683823981487616/1104557595280393/poj4pm4lxaulqiwwu93c0qxo/mettler-brand-v3.zip",
+   "expires_at": "2026-10-05T23:20:31+00:00",
+   "note": "10 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, and hazardous-area load cell wiring."
+  },
+  {
+   "id": "cardinal",
+   "name": "Cardinal",
+   "pack": {
+    "id": "cardinal",
+    "name": "Cardinal Scale - shelf",
+    "kind": "brand",
+    "version": 2,
+    "minApp": 26,
+    "books": 10,
+    "chunks": 899,
+    "sha256": "ff9e1249dcf377aaa9ecd63b30e64f19d6131e9234acf9e1458abff19a57f1e0",
+    "sizeMB": 23.0,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/cardinal-brand-v2.zip",
+    "note": "10 books now: the Storm family plus the 225, 220 and 204 indicators and the 748 instrument manual.",
+    "shelf": [
+     {
+      "name": "825 Gen2",
+      "doc": "8545-1151-0M",
+      "rev": "Rev B",
+      "title": "825 Desktop Weight Indicator Installation & Technical Manual",
+      "pdf": "cardinal825gen2_tech.pdf",
+      "pages": 202
+     },
+     {
+      "name": "210",
+      "doc": "8200-M585-O1",
+      "rev": "Rev E",
+      "title": "210 Storm Weight Indicator Installation & Technical Manual",
+      "pdf": "cardinal210_tech.pdf",
+      "pages": 108
+     },
+     {
+      "name": "205",
+      "doc": "8200-M129-O1",
+      "rev": "Rev E",
+      "title": "205 Storm Weight Indicator Installation & Technical Manual",
+      "pdf": "cardinal205_tech.pdf",
+      "pages": 68
+     },
+     {
+      "name": "190",
+      "doc": "8400-M022-O1",
+      "rev": "Rev P",
+      "title": "190 Storm Indicator Installation & Technical Manual",
+      "pdf": "cardinal190_tech.pdf",
+      "pages": 146
+     },
+     {
+      "name": "200 Panel Mount",
+      "doc": "8200-M035-O1",
+      "rev": "",
+      "title": "200 Weight Indicator Installation & Technical Manual",
+      "pdf": "cardinal200pm_tech.pdf",
+      "pages": 70
+     },
+     {
+      "name": "185 Rival",
+      "doc": "8400-0181-0M",
+      "rev": "Rev E",
+      "title": "185 and 185B Rival Weight Indicator Installation & Technical Manual",
+      "pdf": "cardinal185_tech.pdf",
+      "pages": 44
+     },
+     {
+      "name": "225",
+      "doc": "8200-M538-O1",
+      "rev": "Rev A",
+      "title": "225 Weight Indicator Installation and Technical Manual",
+      "pdf": "cardinal-225_tech.pdf",
+      "pages": 116
+     },
+     {
+      "name": "220",
+      "doc": "8200-M502-O1",
+      "rev": "Rev B",
+      "title": "220 Weight Indicating Instrument Technical and Operation Manual",
+      "pdf": "cardinal-220_tech.pdf",
+      "pages": 94
+     },
+     {
+      "name": "204",
+      "doc": "8555-M313-O1",
+      "rev": "Rev G",
+      "title": "204 Weight Indicator Installation and Technical Manual",
+      "pdf": "cardinal-204_tech.pdf",
+      "pages": 32
+     },
+     {
+      "name": "748",
+      "doc": "8539-M041-O1",
+      "rev": "Rev H",
+      "title": "748 Weight Indicating Instrument Technical/Operation Manual",
+      "pdf": "cardinal-748_tech.pdf",
+      "pages": 47
+     }
+    ],
+    "expires_at": "2026-10-05T23:19:34+00:00"
+   },
+   "shelf": [
+    {
+     "name": "825 Gen2",
+     "doc": "8545-1151-0M",
+     "rev": "Rev B",
+     "title": "825 Desktop Weight Indicator Installation & Technical Manual",
+     "pdf": "cardinal825gen2_tech.pdf",
+     "pages": 202
+    },
+    {
+     "name": "210",
+     "doc": "8200-M585-O1",
+     "rev": "Rev E",
+     "title": "210 Storm Weight Indicator Installation & Technical Manual",
+     "pdf": "cardinal210_tech.pdf",
+     "pages": 108
+    },
+    {
+     "name": "205",
+     "doc": "8200-M129-O1",
+     "rev": "Rev E",
+     "title": "205 Storm Weight Indicator Installation & Technical Manual",
+     "pdf": "cardinal205_tech.pdf",
+     "pages": 68
+    },
+    {
+     "name": "190",
+     "doc": "8400-M022-O1",
+     "rev": "Rev P",
+     "title": "190 Storm Indicator Installation & Technical Manual",
+     "pdf": "cardinal190_tech.pdf",
+     "pages": 146
+    },
+    {
+     "name": "200 Panel Mount",
+     "doc": "8200-M035-O1",
+     "rev": "",
+     "title": "200 Weight Indicator Installation & Technical Manual",
+     "pdf": "cardinal200pm_tech.pdf",
+     "pages": 70
+    },
+    {
+     "name": "185 Rival",
+     "doc": "8400-0181-0M",
+     "rev": "Rev E",
+     "title": "185 and 185B Rival Weight Indicator Installation & Technical Manual",
+     "pdf": "cardinal185_tech.pdf",
+     "pages": 44
+    },
+    {
+     "name": "225",
+     "doc": "8200-M538-O1",
+     "rev": "Rev A",
+     "title": "225 Weight Indicator Installation and Technical Manual",
+     "pdf": "cardinal-225_tech.pdf",
+     "pages": 116
+    },
+    {
+     "name": "220",
+     "doc": "8200-M502-O1",
+     "rev": "Rev B",
+     "title": "220 Weight Indicating Instrument Technical and Operation Manual",
+     "pdf": "cardinal-220_tech.pdf",
+     "pages": 94
+    },
+    {
+     "name": "204",
+     "doc": "8555-M313-O1",
+     "rev": "Rev G",
+     "title": "204 Weight Indicator Installation and Technical Manual",
+     "pdf": "cardinal-204_tech.pdf",
+     "pages": 32
+    },
+    {
+     "name": "748",
+     "doc": "8539-M041-O1",
+     "rev": "Rev H",
+     "title": "748 Weight Indicating Instrument Technical/Operation Manual",
+     "pdf": "cardinal-748_tech.pdf",
+     "pages": 47
+    }
+   ],
+   "version": 2,
+   "minApp": 26,
+   "books": 10,
+   "chunks": 899,
+   "sha256": "ff9e1249dcf377aaa9ecd63b30e64f19d6131e9234acf9e1458abff19a57f1e0",
+   "sizeMB": 23.0,
+   "url": "https://muse.ai/files/683823981487616/1102494645598564/f2dapnrzcfkukn139x2p1d2r/cardinal-brand-v2.zip",
+   "expires_at": "2026-10-05T23:19:34+00:00",
+   "note": "10 books now: the Storm family plus the 225, 220 and 204 indicators and the 748 instrument manual."
+  },
+  {
+   "id": "gse",
+   "name": "GSE",
+   "pack": {
+    "id": "gse-brand",
+    "name": "GSE Scale Systems - shelf",
+    "kind": "brand",
+    "version": 1,
+    "minApp": 12,
+    "books": 7,
+    "chunks": 1279,
+    "sha256": "d276e274d945bfc167bbbb40f8bd155b329f505c646f714f3a9ec36eafe4292e",
+    "sizeMB": 21.0,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/gse-brand-v1.zip",
+    "note": "Teaches Ask every book on the GSE Scale Systems shelf.",
+    "shelf": [
+     {
+      "name": "250",
+      "doc": "Version 2.3",
+      "rev": "",
+      "title": "GSE Model 250 Digital Indicator Series Technical Reference Manual",
+      "pdf": "gse_250_techref.pdf",
+      "pages": 76
+     },
+     {
+      "name": "350/355",
+      "doc": "Version 2.0",
+      "rev": "",
+      "title": "GSE Model 350/355 Digital Weigh Indicator Technical Reference Manual",
+      "pdf": "gse_350_techref.pdf",
+      "pages": 122
+     },
+     {
+      "name": "350/355 IS",
+      "doc": "Version 1.0",
+      "rev": "",
+      "title": "GSE Model 350/355 IS Intrinsically Safe Indicator Technical Reference Manual",
+      "pdf": "gse_350_355is.pdf",
+      "pages": 101
+     },
+     {
+      "name": "370/375",
+      "doc": "Version 1.0",
+      "rev": "",
+      "title": "GSE Model 370 & 375 Precision Counting Scale Technical Reference Manual",
+      "pdf": "gse_370_375_tech.pdf",
+      "pages": 88
+     },
+     {
+      "name": "550/570",
+      "doc": "Version 4.0",
+      "rev": "",
+      "title": "GSE Models 550/570 Programmable Weigh Indicators Technical Reference Manual",
+      "pdf": "gse_550_570_tm.pdf",
+      "pages": 393
+     },
+     {
+      "name": "60 Series",
+      "doc": "39-10-X60REF",
+      "rev": "Issue AE / Ver 4.0",
+      "title": "GSE 60 Series Programmable Process Controllers Technical Reference Manual",
+      "pdf": "gse_60series_ref.pdf",
+      "pages": 573
+     },
+     {
+      "name": "Tankmount",
+      "doc": "39-10-42089",
+      "rev": "Issue AG",
+      "title": "GSE Tankmount Integrated Tank Assembly (ITA) User Instructions",
+      "pdf": "gse_tankmount.pdf",
+      "pages": 22
+     }
+    ]
+   },
+   "shelf": [
+    {
+     "name": "250",
+     "doc": "Version 2.3",
+     "rev": "",
+     "title": "GSE Model 250 Digital Indicator Series Technical Reference Manual",
+     "pdf": "gse_250_techref.pdf",
+     "pages": 76
+    },
+    {
+     "name": "350/355",
+     "doc": "Version 2.0",
+     "rev": "",
+     "title": "GSE Model 350/355 Digital Weigh Indicator Technical Reference Manual",
+     "pdf": "gse_350_techref.pdf",
+     "pages": 122
+    },
+    {
+     "name": "350/355 IS",
+     "doc": "Version 1.0",
+     "rev": "",
+     "title": "GSE Model 350/355 IS Intrinsically Safe Indicator Technical Reference Manual",
+     "pdf": "gse_350_355is.pdf",
+     "pages": 101
+    },
+    {
+     "name": "370/375",
+     "doc": "Version 1.0",
+     "rev": "",
+     "title": "GSE Model 370 & 375 Precision Counting Scale Technical Reference Manual",
+     "pdf": "gse_370_375_tech.pdf",
+     "pages": 88
+    },
+    {
+     "name": "550/570",
+     "doc": "Version 4.0",
+     "rev": "",
+     "title": "GSE Models 550/570 Programmable Weigh Indicators Technical Reference Manual",
+     "pdf": "gse_550_570_tm.pdf",
+     "pages": 393
+    },
+    {
+     "name": "60 Series",
+     "doc": "39-10-X60REF",
+     "rev": "Issue AE / Ver 4.0",
+     "title": "GSE 60 Series Programmable Process Controllers Technical Reference Manual",
+     "pdf": "gse_60series_ref.pdf",
+     "pages": 573
+    },
+    {
+     "name": "Tankmount",
+     "doc": "39-10-42089",
+     "rev": "Issue AG",
+     "title": "GSE Tankmount Integrated Tank Assembly (ITA) User Instructions",
+     "pdf": "gse_tankmount.pdf",
+     "pages": 22
+    }
+   ],
+   "books": 7,
+   "chunks": 1279,
+   "version": 1,
+   "minApp": 12,
+   "note": "Teaches Ask every book on the GSE Scale Systems shelf.",
+   "sha256": "d276e274d945bfc167bbbb40f8bd155b329f505c646f714f3a9ec36eafe4292e",
+   "sizeMB": 21.0,
+   "url": "https://muse.ai/files/683823981487616/1316481130452648/94k4do72vjxn1tsi2usiieja/gse-brand-v1.zip"
+  },
+  {
+   "id": "avery",
+   "name": "Avery",
+   "packId": "avery-brand",
+   "pack": {
+    "id": "avery-brand",
+    "name": "Avery Weigh-Tronix - full shelf",
+    "kind": "brand",
+    "version": 2,
+    "minApp": 12,
+    "books": 5,
+    "chunks": 558,
+    "sha256": "e8b727931cb83d7e589d19d6b6186dd31195feed98e8cbe5ff12106dd0b3d3e4",
+    "sizeMB": 18.3,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/avery-brand-v2.zip",
+    "note": "Five verified Avery Weigh-Tronix service manuals: ZM510 (AWT35-501664 Issue AB, 132pp \u2014 Ian cleared the aggregator verification code himself 2026-10-03; fully fitz-verified), 1040/XL, 1080, E1010, WI-127.",
+    "shelf": [
+     {
+      "name": "ZM510",
+      "doc": "AWT35-501664",
+      "rev": "Issue AB",
+      "title": "ZM510 Indicator Service Manual",
+      "pdf": "avery-zm510_service.pdf",
+      "pages": 132
+     },
+     {
+      "name": "1040",
+      "doc": "29812-0015A",
+      "rev": "e3",
+      "title": "Model 1040/XL Indicator Service Manual",
+      "pdf": "avery-1040_service.pdf",
+      "pages": 50
+     },
+     {
+      "name": "1080",
+      "doc": "AWT35-500446",
+      "rev": "Issue AD",
+      "title": "Model 1080 Weight Indicator Service Manual",
+      "pdf": "avery-1080_service.pdf",
+      "pages": 156
+     },
+     {
+      "name": "E1010",
+      "doc": "AWT35-500132",
+      "rev": "Issue B",
+      "title": "Model E1010 Indicator Service Manual",
+      "pdf": "avery-e1010_service.pdf",
+      "pages": 71
+     },
+     {
+      "name": "WI-127",
+      "doc": "29633-0012",
+      "rev": "e1",
+      "title": "WI-127 Indicator Service Manual",
+      "pdf": "avery-wi127_service.pdf",
+      "pages": 105
+     }
+    ]
+   },
+   "shelf": [
+    {
+     "name": "ZM510",
+     "doc": "AWT35-501664",
+     "rev": "Issue AB",
+     "title": "ZM510 Indicator Service Manual",
+     "pdf": "avery-zm510_service.pdf",
+     "pages": 132
+    },
+    {
+     "name": "1040",
+     "doc": "29812-0015A",
+     "rev": "e3",
+     "title": "Model 1040/XL Indicator Service Manual",
+     "pdf": "avery-1040_service.pdf",
+     "pages": 50
+    },
+    {
+     "name": "1080",
+     "doc": "AWT35-500446",
+     "rev": "Issue AD",
+     "title": "Model 1080 Weight Indicator Service Manual",
+     "pdf": "avery-1080_service.pdf",
+     "pages": 156
+    },
+    {
+     "name": "E1010",
+     "doc": "AWT35-500132",
+     "rev": "Issue B",
+     "title": "Model E1010 Indicator Service Manual",
+     "pdf": "avery-e1010_service.pdf",
+     "pages": 71
+    },
+    {
+     "name": "WI-127",
+     "doc": "29633-0012",
+     "rev": "e1",
+     "title": "WI-127 Indicator Service Manual",
+     "pdf": "avery-wi127_service.pdf",
+     "pages": 105
+    }
+   ],
+   "books": 5,
+   "chunks": 558,
+   "version": 2,
+   "minApp": 12,
+   "note": "Five verified Avery Weigh-Tronix service manuals: ZM510 (AWT35-501664 Issue AB, 132pp \u2014 Ian cleared the aggregator verification code himself 2026-10-03; fully fitz-verified), 1040/XL, 1080, E1010, WI-127.",
+   "sha256": "e8b727931cb83d7e589d19d6b6186dd31195feed98e8cbe5ff12106dd0b3d3e4",
+   "sizeMB": 18.3,
+   "url": "https://muse.ai/files/683823981487616/2342846869875427/s83eozgiwttvqdi090nf129i/avery-brand-v2.zip"
+  },
+  {
+   "id": "toledo",
+   "name": "Toledo",
+   "kind": "brand",
+   "brand": "Toledo",
+   "version": 1,
+   "minApp": 26,
+   "books": 2,
+   "chunks": 90,
+   "sha256": "b72a6041f2e2c94b864472e3e2a88a44735eed3e2851e463163826908d8513d5",
+   "sizeMB": 1.0,
+   "url": "https://muse.ai/files/683823981487616/29161187073474326/88l3tlp6swf3drux11g6fvuo/toledo-brand-v1.zip",
+   "expires_at": "2026-10-05T23:18:51+00:00",
+   "note": "Toledo's classics: the 8140 technical service manual and the VERTEX floor-scale installation and service book.",
+   "shelf": [
+    {
+     "name": "8140",
+     "doc": "",
+     "rev": "",
+     "title": "Toledo 8140 Technical Service Manual",
+     "pdf": "toledo-8140_techservice.pdf",
+     "pages": 56
+    },
+    {
+     "name": "VERTEX",
+     "doc": "B14691400A",
+     "rev": "(2/01)",
+     "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
+     "pdf": "toledo-vertex_service.pdf",
+     "pages": 47
+    }
+   ],
+   "pack": {
+    "id": "toledo",
+    "name": "Toledo",
+    "kind": "brand",
+    "version": 1,
+    "minApp": 26,
+    "books": 2,
+    "chunks": 90,
+    "sha256": "b72a6041f2e2c94b864472e3e2a88a44735eed3e2851e463163826908d8513d5",
+    "sizeMB": 1.0,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/toledo-brand-v1.zip",
+    "note": "Toledo's classics: the 8140 technical service manual and the VERTEX floor-scale installation and service book.",
+    "shelf": [
+     {
+      "name": "8140",
+      "doc": "",
+      "rev": "",
+      "title": "Toledo 8140 Technical Service Manual",
+      "pdf": "toledo-8140_techservice.pdf",
+      "pages": 56
+     },
+     {
+      "name": "VERTEX",
+      "doc": "B14691400A",
+      "rev": "(2/01)",
+      "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
+      "pdf": "toledo-vertex_service.pdf",
+      "pages": 47
+     }
+    ],
+    "expires_at": "2026-10-05T23:18:51+00:00"
+   }
+  },
+  {
+   "id": "aand",
+   "name": "A&D Weighing",
+   "kind": "brand",
+   "brand": "A&D Weighing",
+   "version": 1,
+   "minApp": 26,
+   "books": 1,
+   "chunks": 37,
+   "sha256": "5516f01661ee6179436e39f95616a5e1033f313c8394017d3e5e2a5a6e04433d",
+   "sizeMB": 3.9,
+   "url": "https://muse.ai/files/683823981487616/1502476398451435/0dehctsx1ay436euo72ytpq2/aand-brand-v1.zip",
+   "expires_at": "2026-10-05T23:19:12+00:00",
+   "note": "A&D's EK-i/EW-i compact balance maintenance manual, with calibration and repair procedures for seventeen models.",
+   "shelf": [
+    {
+     "name": "EK/EW-i",
+     "doc": "WT+PD4000657A",
+     "rev": "",
+     "title": "EK-i/EW-i Series Compact Balances Maintenance Manual",
+     "pdf": "aand-ekewi_maintenance.pdf",
+     "pages": 68
+    }
+   ],
+   "pack": {
+    "id": "aand",
+    "name": "A&D Weighing",
+    "kind": "brand",
+    "version": 1,
+    "minApp": 26,
+    "books": 1,
+    "chunks": 37,
+    "sha256": "5516f01661ee6179436e39f95616a5e1033f313c8394017d3e5e2a5a6e04433d",
+    "sizeMB": 3.9,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/aand-brand-v1.zip",
+    "note": "A&D's EK-i/EW-i compact balance maintenance manual, with calibration and repair procedures for seventeen models.",
+    "shelf": [
+     {
+      "name": "EK/EW-i",
+      "doc": "WT+PD4000657A",
+      "rev": "",
+      "title": "EK-i/EW-i Series Compact Balances Maintenance Manual",
+      "pdf": "aand-ekewi_maintenance.pdf",
+      "pages": 68
+     }
+    ],
+    "expires_at": "2026-10-05T23:19:12+00:00"
+   }
+  }
+ ]
+}
