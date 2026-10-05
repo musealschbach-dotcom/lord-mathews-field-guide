@@ -352,14 +352,14 @@
     "id": "mettler",
     "name": "Mettler Toledo - full shelf",
     "kind": "brand",
-    "version": 3,
+    "version": 4,
     "minApp": 26,
-    "books": 10,
-    "chunks": 2540,
-    "sha256": "96b48f4f010f9355aec85cd178f9ae54c5795fa53c16c20c5f105aa94a72b7cb",
-    "sizeMB": 72.5,
-    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/mettler-brand-v3.zip",
-    "note": "10 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, and hazardous-area load cell wiring.",
+    "books": 12,
+    "chunks": 2630,
+    "sha256": "9d291fa772158cc139e9c71fb20a9293305e96824dac1db58963a8ede0bc278d",
+    "sizeMB": 73.5,
+    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.58/mettler-brand-v4.zip",
+    "note": "12 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, hazardous-area load cell wiring, plus Toledo's 8140 and VERTEX classics.",
     "shelf": [
      {
       "name": "IND780",
@@ -440,9 +440,24 @@
       "title": "PANTHER Terminal Technical Manual",
       "pdf": "mettler-panther_tech.pdf",
       "pages": 150
+     },
+     {
+      "name": "8140",
+      "doc": "",
+      "rev": "",
+      "title": "Toledo 8140 Technical Service Manual",
+      "pdf": "toledo-8140_techservice.pdf",
+      "pages": 56
+     },
+     {
+      "name": "VERTEX",
+      "doc": "B14691400A",
+      "rev": "(2/01)",
+      "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
+      "pdf": "toledo-vertex_service.pdf",
+      "pages": 47
      }
-    ],
-    "expires_at": "2026-10-05T23:20:31+00:00"
+    ]
    },
    "shelf": [
     {
@@ -524,17 +539,32 @@
      "title": "PANTHER Terminal Technical Manual",
      "pdf": "mettler-panther_tech.pdf",
      "pages": 150
+    },
+    {
+     "name": "8140",
+     "doc": "",
+     "rev": "",
+     "title": "Toledo 8140 Technical Service Manual",
+     "pdf": "toledo-8140_techservice.pdf",
+     "pages": 56
+    },
+    {
+     "name": "VERTEX",
+     "doc": "B14691400A",
+     "rev": "(2/01)",
+     "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
+     "pdf": "toledo-vertex_service.pdf",
+     "pages": 47
     }
    ],
-   "version": 3,
+   "version": 4,
    "minApp": 26,
-   "books": 10,
-   "chunks": 2540,
-   "sha256": "96b48f4f010f9355aec85cd178f9ae54c5795fa53c16c20c5f105aa94a72b7cb",
-   "sizeMB": 72.5,
-   "url": "https://muse.ai/files/683823981487616/1104557595280393/poj4pm4lxaulqiwwu93c0qxo/mettler-brand-v3.zip",
-   "expires_at": "2026-10-05T23:20:31+00:00",
-   "note": "10 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, and hazardous-area load cell wiring."
+   "books": 12,
+   "chunks": 2630,
+   "sha256": "9d291fa772158cc139e9c71fb20a9293305e96824dac1db58963a8ede0bc278d",
+   "sizeMB": 73.5,
+   "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.58/mettler-brand-v4.zip",
+   "note": "12 books: the IND780 and IND570 family, the IND560 and Panther technical manuals, weigh modules, hazardous-area load cell wiring, plus Toledo's 8140 and VERTEX classics."
   },
   {
    "id": "cardinal",
@@ -977,71 +1007,6 @@
    "sha256": "e8b727931cb83d7e589d19d6b6186dd31195feed98e8cbe5ff12106dd0b3d3e4",
    "sizeMB": 18.3,
    "url": "https://muse.ai/files/683823981487616/2342846869875427/s83eozgiwttvqdi090nf129i/avery-brand-v2.zip"
-  },
-  {
-   "id": "toledo",
-   "name": "Toledo",
-   "kind": "brand",
-   "brand": "Toledo",
-   "version": 1,
-   "minApp": 26,
-   "books": 2,
-   "chunks": 90,
-   "sha256": "b72a6041f2e2c94b864472e3e2a88a44735eed3e2851e463163826908d8513d5",
-   "sizeMB": 1.0,
-   "url": "https://muse.ai/files/683823981487616/29161187073474326/88l3tlp6swf3drux11g6fvuo/toledo-brand-v1.zip",
-   "expires_at": "2026-10-05T23:18:51+00:00",
-   "note": "Toledo's classics: the 8140 technical service manual and the VERTEX floor-scale installation and service book.",
-   "shelf": [
-    {
-     "name": "8140",
-     "doc": "",
-     "rev": "",
-     "title": "Toledo 8140 Technical Service Manual",
-     "pdf": "toledo-8140_techservice.pdf",
-     "pages": 56
-    },
-    {
-     "name": "VERTEX",
-     "doc": "B14691400A",
-     "rev": "(2/01)",
-     "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
-     "pdf": "toledo-vertex_service.pdf",
-     "pages": 47
-    }
-   ],
-   "pack": {
-    "id": "toledo",
-    "name": "Toledo",
-    "kind": "brand",
-    "version": 1,
-    "minApp": 26,
-    "books": 2,
-    "chunks": 90,
-    "sha256": "b72a6041f2e2c94b864472e3e2a88a44735eed3e2851e463163826908d8513d5",
-    "sizeMB": 1.0,
-    "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.53/toledo-brand-v1.zip",
-    "note": "Toledo's classics: the 8140 technical service manual and the VERTEX floor-scale installation and service book.",
-    "shelf": [
-     {
-      "name": "8140",
-      "doc": "",
-      "rev": "",
-      "title": "Toledo 8140 Technical Service Manual",
-      "pdf": "toledo-8140_techservice.pdf",
-      "pages": 56
-     },
-     {
-      "name": "VERTEX",
-      "doc": "B14691400A",
-      "rev": "(2/01)",
-      "title": "2158 Analog / 2160 DigiTOL / 2162 IDNet VERTEX Floor Scales Installation and Service Manual",
-      "pdf": "toledo-vertex_service.pdf",
-      "pages": 47
-     }
-    ],
-    "expires_at": "2026-10-05T23:18:51+00:00"
-   }
   },
   {
    "id": "aand",
