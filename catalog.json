@@ -1057,5 +1057,31 @@
     "expires_at": "2026-10-05T23:19:12+00:00"
    }
   }
+ ],
+ "packs": [
+  {
+   "id": "voice",
+   "name": "lord Mathew's recorded voice",
+   "kind": "voice",
+   "version": 1,
+   "minApp": 88,
+   "clips": 3938,
+   "note": "Every calibration guide, panel tour and fixed line in lord Mathew's own recorded voice. One download on Wi-Fi, then it lives on the phone. Until it lands, guides read in the phone voice instead.",
+   "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.76/voice-pack-v1.zip",
+   "sha256": "212efec2beb444b09e0baedf323e4924f7bb4a8bc9eff1032eb37c4bcaa151e3",
+   "sizeMB": 51.6
+  },
+  {
+   "id": "find",
+   "name": "Find highlights for every book",
+   "kind": "find",
+   "version": 1,
+   "minApp": 88,
+   "books": 76,
+   "note": "Powers the yellow highlights in Find in this book \u2014 every match washed pale yellow, the one you are on in strong orange. One download on Wi-Fi. Until it lands, Find still jumps page to page, it just cannot paint the highlights yet.",
+   "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.76/find-pack-v1.zip",
+   "sha256": "feac65bf9e1d5b9c0336f67611409ec50a628eaf5461a6ac0382bf266d231b0f",
+   "sizeMB": 15.5
+  }
  ]
 }
