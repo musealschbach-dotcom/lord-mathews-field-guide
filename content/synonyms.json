@@ -1,0 +1,137 @@
+{
+ "calibrate": [
+  "calibration",
+  "span",
+  "zero",
+  "calibrate"
+ ],
+ "calibration": [
+  "calibrate",
+  "span",
+  "zero"
+ ],
+ "error": [
+  "error",
+  "fault",
+  "diagnostic",
+  "trouble",
+  "code"
+ ],
+ "errors": [
+  "error",
+  "fault",
+  "diagnostic",
+  "trouble",
+  "code"
+ ],
+ "fault": [
+  "error",
+  "diagnostic",
+  "code"
+ ],
+ "faults": [
+  "error",
+  "diagnostic",
+  "code"
+ ],
+ "code": [
+  "error",
+  "fault",
+  "diagnostic"
+ ],
+ "codes": [
+  "error",
+  "fault",
+  "diagnostic"
+ ],
+ "cell": [
+  "load cell",
+  "loadcell"
+ ],
+ "cells": [
+  "load cell",
+  "loadcell"
+ ],
+ "wire": [
+  "wiring",
+  "wire",
+  "connect"
+ ],
+ "wiring": [
+  "wire",
+  "connect",
+  "terminal"
+ ],
+ "tare": [
+  "tare"
+ ],
+ "gross": [
+  "gross"
+ ],
+ "net": [
+  "net"
+ ],
+ "print": [
+  "printer",
+  "print"
+ ],
+ "printer": [
+  "print",
+  "serial",
+  "output"
+ ],
+ "serial": [
+  "serial",
+  "rs-232",
+  "rs485",
+  "com port"
+ ],
+ "scale": [
+  "scale",
+  "weigh"
+ ],
+ "truck": [
+  "vehicle",
+  "axle",
+  "inbound",
+  "outbound"
+ ],
+ "diagnostic": [
+  "error",
+  "fault",
+  "test"
+ ],
+ "diagnostics": [
+  "error",
+  "fault",
+  "test"
+ ],
+ "setup": [
+  "configuration",
+  "configure",
+  "menu"
+ ],
+ "configure": [
+  "configuration",
+  "setup",
+  "menu"
+ ],
+ "password": [
+  "security",
+  "login",
+  "access"
+ ],
+ "menu": [
+  "configuration",
+  "setup"
+ ],
+ "zero": [
+  "zero",
+  "calibration"
+ ],
+ "span": [
+  "calibration",
+  "span",
+  "calibrate"
+ ]
+}
