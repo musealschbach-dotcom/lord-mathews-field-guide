@@ -1087,11 +1087,11 @@
    "id": "content",
    "name": "Panels, guides & Contents updates",
    "kind": "content",
-   "version": 2,
+   "version": 3,
    "minApp": 96,
    "note": "The Know-this-panel tours, calibration guides and Contents cards, kept fresh as data. New or fixed guide content lands here on its own \u2014 no app update needed. Your app always carries a built-in copy, so this only ever makes it fresher.",
-   "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/v3.85/content-pack-v2.zip",
-   "sha256": "51c244b8f13bdfc1b85726d8f31e89109d3d480581560a72b59420ca67cdbab0",
+   "url": "https://github.com/musealschbach-dotcom/lord-mathews-field-guide/releases/download/content-v3/content-pack-v3.zip",
+   "sha256": "b9d98f0bbb08974628f41e6e067d149d2ec8bfd1f6320df53693ea1b722b548e",
    "sizeMB": 0.26
   }
  ]
